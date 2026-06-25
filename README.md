@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Sai Santhosh 👋
 
-<!--
-**san07-crtl/san07-crtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Product Manager | Growth Enthusiast | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building products that solve real user problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie at the intersection of:
+
+- 📱 Product Management
+- 📈 Growth
+- 🎨 UX Design
+- 🤖 AI Products
+- 💡 User Behavior
+- 📊 Data-driven Decision Making
+
+---
+
+## 🌱 Currently Learning
+
+- Product Strategy
+- Product Analytics
+- Growth Experiments
+- A/B Testing
+- User Research
+- SQL
+- React
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 Spotify Discovery Boost
+Interactive product prototype exploring transparent music discovery and personalized recommendations.
+
+🔗 Live Demo:
+https://spotify-discovery-boost.vercel.app
+
+🔗 Repository:
+https://github.com/san07-crtl/spotify-discovery-boost
+
+---
+
+## 🎯 2026 Goals
+
+- Build 5 Product Case Studies
+- Land a Product Management Internship
+- Learn Product Analytics
+- Ship AI-powered Products
+- Grow my GitHub Portfolio
+
+---
+
+## 📫 Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/sai-santhosh-yekollu-ba2436395
+
+GitHub:
+https://github.com/san07-crtl
+
+---
+
+⭐ Thanks for visiting my profile!
